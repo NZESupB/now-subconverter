@@ -3,7 +3,7 @@ common:
   api_access_token: password
   default_url: []
   enable_insert: true
-  insert_url: ["vmess://eyJhZGQiOiJ3d3cubnhub3cueHl6IiwiYWlkIjoiNTAiLCJob3N0Ijoid3d3Lm54bm93Lnh5eiIsImlkIjoiMDQ1MjI1ZmItYjZiZi00ZmVlLTgyODctODIxMzQ5NmVkOTc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2ZhODUyLyIsInBvcnQiOiI0NDMiLCJwcyI6ImdjcC3pppnmuK8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="]
+  insert_url: []
   prepend_insert_url: true
   exclude_remarks: ["(到期|剩余流量|时间|官网|产品|平台|坏掉|试用|IPV6|ipv6|漏洞|用户|续费)"]
   include_remarks: []
