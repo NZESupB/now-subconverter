@@ -1,5 +1,6 @@
 香港 Elastic Network Adapter 25 Gbps \+ 14 Gbps EBS 机器学习推理辅助计算 Anycast任播 性能测试@中港 AGA
  不计流量@
+𝐌𝐮𝐬𝐢𝐜(\d)@网易云解锁 0$1
 回国[\d\D]*(A|B|C|D)(\d\d)[\d\D]*@回国&网易云解锁 $2
 ;(\（).*?(\）)...(\d)*.bps@
 (\（).*?(\）)@
