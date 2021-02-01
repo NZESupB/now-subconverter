@@ -43,11 +43,11 @@ jobs:
         sed -i '245 a /qxrule=/getruleset?type=2' subconverter/pref.ini
         sed -i '245 a /clashrule=/getruleset?type=6' subconverter/pref.ini
         sed -i '245 a /claship=/getruleset?type=4' subconverter/pref.ini
-        sed -i '245 a /qr=/getruleset?type=2' subconverter/pref.ini
-        sed -i '245 a /cr=/getruleset?type=6' subconverter/pref.ini
-        sed -i '245 a /cipr=/getruleset?type=4' subconverter/pref.ini
-        sed -i '245 a /cs=/sub?target=clash&config=https:\/\/raw.githubusercontent.com\/NZESupB\/SubConver-Clash-Profile\/master\/outprovide.ini&list=true&udp=true' subconverter/pref.ini
-        sed -i '245 a /qs=/sub?target=quanx&config=https:\/\/raw.githubusercontent.com\/NZESupB\/SubConver-Clash-Profile\/master\/outprovide.ini&list=true&udp=true' subconverter/pref.ini
+        sed -i '245 a /qrule=/getruleset?type=2' subconverter/pref.ini
+        sed -i '245 a /crule=/getruleset?type=6' subconverter/pref.ini
+        sed -i '245 a /iprule=/getruleset?type=4' subconverter/pref.ini
+        sed -i '245 a /csub=/sub?target=clash&config=https:\/\/raw.githubusercontent.com\/NZESupB\/Profile\/main\/outpref\/outprovide.ini&list=true&udp=true' subconverter/pref.ini
+        sed -i '245 a /qsub=/sub?target=quanx&config=https:\/\/raw.githubusercontent.com\/NZESupB\/Profile\/main\/outpref\/outprovide.ini&list=true&udp=true' subconverter/pref.ini
         
     - name: Add & Commit
       uses: EndBug/add-and-commit@v4.4.0
