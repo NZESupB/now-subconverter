@@ -1,6 +1,4 @@
-# now-subconverter
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fzhongfly%2Fnow-subconverter)
 
 自有短连接
 /qsub?url=机场订阅   qxlist订阅
