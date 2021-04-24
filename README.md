@@ -9,3 +9,6 @@
 /crule?url=Base64后的规则链接(surge规则为主)    clash规则
 
 /iprule?url=Base64后的规则链接(surge规则为主)   ipcidr规则
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fzhongfly%2Fnow-subconverter)
+
+使用说明见[此处](https://mirro-blog.vercel.app/#/posts/4)
